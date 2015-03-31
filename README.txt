@@ -1,0 +1,1 @@
+Školní práce na SI a WAP. Jednoduchá PHP tøáda která nám pomáhá tvoøit HTML tabulku bej psaní tagù. Zde je pøíklad jak tøidu používat: example.php
